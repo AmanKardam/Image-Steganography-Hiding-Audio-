@@ -59,7 +59,7 @@ Original Audio File:-(EncodingSamples/Sound/taunt.wav) | Decoded Audio File:-(De
 
 From the encoded image we can extract the Audio file:
 ```
-$ python3 main.py -d -i EncodedSamples/filename.jpg -k 729928 -t wav
+$ python3 main.py -d -i EncodedSamples/Encoded.png -k 729928 -t wav
 ```
 
 ## Future developements
