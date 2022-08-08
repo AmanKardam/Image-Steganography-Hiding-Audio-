@@ -1,0 +1,8 @@
+numpy
+imageio
+Pillow
+os
+argparse
+soundfile
+matplotlib
+ffmpy
