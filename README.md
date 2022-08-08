@@ -26,10 +26,6 @@ optional arguments:
                         Path to an image to use for concealing or file
                         extraction
   -f FILE, --file FILE  Path to the audio file to conceal or to extract
-  -o OUTPUT, --output OUTPUT
-                        Path where to save the encoded image. Specify only the
-                        file name, or use .png extension; png extension will
-                        be added automatically
   -t                    Type of decoder (wav or mp3)
   -k			Key used to decode file
   
